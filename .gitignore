@@ -2,3 +2,7 @@ mnist_data/*
 stl10_data/*
 test_case_GAN/*
 test_case_VAE/*
+*.pt
+*.pth
+models/*
+STL*
