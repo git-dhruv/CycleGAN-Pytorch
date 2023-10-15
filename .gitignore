@@ -5,3 +5,4 @@ test_case_VAE/*
 *.pt
 *.pth
 models/*
+STL*
